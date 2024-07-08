@@ -14,7 +14,7 @@ Navidrome is an open source web-based music collection server and streamer. It g
 music collection from any browser or mobile device. It's like your personal Spotify!
 
 
-**Note**: The `master` branch may be in an unstable or even broken state during development. 
+**Note**: The `master` branch may be in an unstable or even broken state during development.
 Please use [releases](https://github.com/navidrome/navidrome/releases) instead of 
 the `master` branch in order to get a stable set of binaries.
 
